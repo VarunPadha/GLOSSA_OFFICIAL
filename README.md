@@ -44,10 +44,4 @@ The WebApp is compatible with devices of all sizes and all OS's, and consistent 
 - [Firebase](https://firebase.google.com/) - A comprehensive app development platform by Google that includes a suite of cloud-based services for building, improving, and growing your app.
 
 
-## Team
 
-![Varun Padha](https://i.imgur.com/KME4AHKb.jpg)
-[Varun Padha](https://github.com/varunpadha)
-
-
-[LinkedIn] ](https://www.linkedin.com/in/varun-padha/)
